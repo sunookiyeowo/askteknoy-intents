@@ -1,8 +1,16 @@
 {
     "questions": [
-        "Who is the head of security and safety department?"
+        "Who is the head of security and safety department?",
+        "Head Security and Safety Deparment",
+        "Who is the Security and Safety Deparment Head?",
+        "head security and safety",
+        "head security",
+        "head safety",
+        "Head Security and Safety"
     ], 
     "answers": [
-        "Mr. Paul Suerte"
+        "Mr. Paul Suerte",
+        "The head of security and safety department is Mr. Paul Suerte.",
+        "Head of Security and Safety Deparment: Mr. Paul Suerte."
     ]
 }

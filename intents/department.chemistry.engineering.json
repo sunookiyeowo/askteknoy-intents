@@ -1,8 +1,21 @@
 {
     "questions": [
-        "Who are the head and secretary of College of Chemistry Engineering Department?"
+        "Who are the head and secretary of Chemical Engineering Department?",
+        "Who are the secretaries of Chemical Engineering Deparment?",
+        "Who are the heads of Chemical Engineering Deparment?",
+        "Heads of Chemical Engineering Deparment.",
+        "Who are the head and secretaries of CHE Deparment?",
+        "Heads of CHE Dept.",
+        "Secretaries of Chemical Engineering Deparment?",
+        "Chemical Engineering Department head and secretaries",
+        "CHE Deparment Head and Secretaries"
     ], 
     "answers": [
-        "Mrs. Vera Marie Lanaria and Mrs. Rosario Dangin."
+        "Engr. Vera Marie Lanaria and Engr. Rosario Dangin.",
+        "The secretaries of Chemical Engineering Department are Engr. Vera Marie Lanaria and Engr. Rosario Dangin.",
+        "The heads of Chemical Engineering Department are Engr. Vera Marie Lanaria and Engr. Rosario Dangin.",
+        "Secretaries of CHE Deparment: Engr. Vera Marie Lanaria and Engr. Rosario Dangin.",
+        "CHE Deparment Secretaries and Head: Engr. Marie Lanaria and Engr. Rosario Dangin."
+
     ]
 }

@@ -4,7 +4,11 @@
         "Hello, AskTeknoy", 
         "Hello chatbot",
         "Hi, may I ask something?", 
-        "hello, wildcat"
+        "hello, wildcat",
+        "Greetings, AskTeknoy.",
+        "Good morning",
+        "Good afternoon",
+        "Good evening"
     ], 
     "answers": [
         "Hey there!, I'm AskTeknoy your virtual assistant. How may I help you?", 

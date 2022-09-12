@@ -1,8 +1,27 @@
 {
     "questions": [
-        "Who are the secretaries of Property of Custodian's Office?"
+        "Who are the secretaries of Property of Custodian's Office?",
+        "PCO Head",
+        "pco head",
+        "Head of PCO",
+        "head of pco",
+        "pc head",
+        "head of pc",
+        "heads of pc",
+        "Heads of PCO",
+        "heads of pco",
+        "secretaries of PCO",
+        "secs of PCO",
+        "Who are the secretaries Of PCO?",
+        "PCO secretaries",
+        "pco secretrary",
+        "Who are the PCO secretaries?",
+        "Who are the Property of Custodian's Office secretaries?"
+
     ], 
     "answers": [
-        "Mrs. Arlene Caneda, Mr. Jerome Ubas, Mr. Claudine."
+        "Mrs. Arlene Caneda, Mr. Jerome Ubas, Mr. Claudine.",
+        "The secretaries of Property Custodian's Office are Mrs. Arlene Caneda, Mr. Jerome Ubas, Mr. Claudine.",
+        "secretaries of PCO: Mrs. Arlene Caneda, Mr. Jerome Ubas, Mr. Claudine. "
     ]
 }

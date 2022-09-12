@@ -1,8 +1,16 @@
 {
     "questions": [
-        "Who is the head and secretary of HRD Office?"
+        "Who is the head and secretary of HRD Office?",
+        "Head and Secretary of HRD Office",
+        "Who is the head and sec of HRD?",
+        "Who is the head and secretary of Human Resource Department Office?",
+        "head and secretary of hrd",
+        "HRD Head and Secretary"
     ], 
     "answers": [
-        "Mrs. Naomi Ferrosuelo and Mrs. Florabel Chua"
+        "Mrs. Naomi Ferrosuelo and Mrs. Florabel Chua",
+        "The Head and Secretary of HRD Office is Mrs. Naomi Ferrosuelo and Mrs. Florabel Chua.",
+        "HRD Head is Mrs. Naomi Ferrosuelo and Mrs. Florabel Chua.",
+        "Human Resource Department head and secretary is Mrs. Naomi Ferrosuelo and Mrs. Florabel Chua. "
     ]
 }

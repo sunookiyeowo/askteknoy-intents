@@ -1,8 +1,14 @@
 {
     "questions": [
-        "Who is the head of FIC office?"
+        "Who is the head of FIC office?",
+        "Who is the FIC Office head?",
+        "FIC Office head.",
+        "Head of FIC Office",
+        "Head FIC Office"
     ], 
     "answers": [
-        "Mr. Bennie Bacalso"
+        "Mr. Bennie Bacalso",
+        "The head of FIC is Mr. Bennie Bacalso.",
+        "FIC Office Head is Mr. Bennie Bacalso."
     ]
 }

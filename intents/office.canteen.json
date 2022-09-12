@@ -1,8 +1,16 @@
 {
     "questions": [
-        "Who is the manage or head of Canteen?"
+        "Who is the manage or head of Canteen?",
+        "Who is the head of Canteen?",
+        "Canteen Head",
+        "Canteen Manager",
+        "Who is the manager of Canteen?",
+        "Who is the head of Canteen?"
+
     ], 
     "answers": [
-        "Mrs. Jean Marie Cando"
+        "Mrs. Jean Marie Cando",
+        "The head/manager of Canteen is Mrs. Jean Marie Cando.",
+        "The Canteen Head/Manager is Mrs. Jean Marie Cando."
     ]
 }

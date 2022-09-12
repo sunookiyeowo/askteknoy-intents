@@ -1,8 +1,15 @@
 {
     "questions": [
-        "Who is the head of DEMPC or DMNS department?"
+        "Who is the head of DEMPC or DMNS department?",
+        "Who is the head of DEMPC?",
+        "Who is the head of DMNS?",
+        "Head of DEMPC or DMNS?",
+        "Head of DEMPC",
+        "Head of DMNS"
     ], 
     "answers": [
-        "Mr. Buenaventrua Jakosalem"
+        "Mr. Buenaventrua Jakosalem",
+        "Mr. Buenaventrua Jakosalem is the head of DEMPC/DMNS.",
+        "The head of DEMPC/DMNS is Mr. Buenaventrua Jakosalem."
     ]
 }

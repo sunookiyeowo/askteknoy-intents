@@ -1,8 +1,14 @@
 {
     "questions": [
-        "Who is the head of Clinic for elementary?"
+        "Who is the head of Clinic for elementary?",
+        "Head of elementary Clinic",
+        "Who is the head for Elementary Clinic?",
+        "Elementary Clinic Head",
+        "Clinic for Elementary Head"
     ], 
     "answers": [
-        "Mrs. Rosario Saberon"
+        "Dr. Rosario Saberon",
+        "The Head of Clinic for Elementary is Dr. Rosario Saberon.",
+        "Dr. Rosario Saberon is the head of Elementary Clinic."
     ]
 }

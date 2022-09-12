@@ -1,9 +1,10 @@
 {
     "questions": [
-        "What is the total number of deparments in CIT-U",
+        "What is the total number of deparments in CIT-U?",
         "Total number of departments", 
         "How many departments", 
-        "Number of departments available"
+        "Number of departments available",
+        "How many departments are available?"
     ],
     
     "answers": [

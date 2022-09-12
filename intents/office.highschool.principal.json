@@ -1,8 +1,18 @@
 {
     "questions": [
-        "Who is the head of principal's office?"
+        "Who is the head of principal's office?",
+        "Who is the highschool principal?",
+        "principal of Highschool",
+        "Highschool Principal",
+        "highschool principal",
+        "Who is the principal's office head?",
+        "Head of principal's office",
+        "Principal's Office Head",
+        "office principal head"
     ], 
     "answers": [
-        "Mrs. Raniza Romero"
+        "Mrs. Raniza Romero",
+        "The Highschool Principal is Mrs. Raniza Romero.",
+        "The Head of Principal's Office is Mrs. Raniza Romero."
     ]
 }

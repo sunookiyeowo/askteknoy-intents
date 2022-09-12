@@ -1,8 +1,15 @@
 {
     "questions": [
-        "Who is the head of DLLC department?"
+        "Who is the head of DLLC department?",
+        "Who is the DLLC Deparment Head?",
+        "Who is the head of DLLC?",
+        "DLLC Head?",
+        "Who is the head of the Department of Literature and Language Communication?",
+        "Who is the Deparment of Literature and Language Communication Head?"
     ], 
     "answers": [
-        "Mr. Madeilen Atillo"
+        "Mrs. Madeilen Atillo",
+        "The DLLC Head is Mrs. Madeilen Atillo.",
+        "The head of the Department of Literature and Language Communication is Mrs. Madeilen Atillo."
     ]
 }

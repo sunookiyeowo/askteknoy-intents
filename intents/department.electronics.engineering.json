@@ -1,8 +1,18 @@
 {
     "questions": [
-        "Who is the head of College of Eletronics and Communication Engineering Department?"
+        "Who is the head of Eletronics and Communication Engineering Department?",
+        "Who is the head of ECE Deparment?",
+        "Who is the head of ECE Dept?",
+        "ECE Deparment Head?",
+        "Who is the head of Eletronics Engineering Deparment?",
+        "who is the ECE Deparment Head?"
+
     ], 
     "answers": [
-        "Mrs. Susana Tan"
+        "Engr. Susana Tan",
+        "Engr. Susana Tan is the head of Eletronics and Communications Engineering Deparment.",
+        "The ECE Deparment Head is Engr. Susana Tan.",
+        "ECE Dept. Head is Engr. Susana Tan."
+
     ]
 }

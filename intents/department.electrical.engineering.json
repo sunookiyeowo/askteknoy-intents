@@ -1,8 +1,19 @@
 {
     "questions": [
-        "Who is the head of College of Electrical Engineering Department?"
+        "Who is the head of Electrical Engineering Department?",
+        "Who is the head of EE Deparment?",
+        "Who is the Electrical Engineering Deparment Head?",
+        "Who is the EE Deparment Head?",
+        "EE Deparment Head?",
+        "Electrical Engineering Deparment Head",
+        "Head of Electrical Engineering Department",
+        "Who is the EE Dept. Head?"
+
     ], 
     "answers": [
-        "Mr. Erwin Salvador"
+        "Engr. Erwin Salvador",
+        "The Electrical Engineering Deparment Head is Engr. Erwin Salvador.",
+        "Engr. Erwin Salvador is the head of Electrical Engineering Deparment.",
+        "En. Erwin Salvador is the head of EE Deparment."
     ]
 }

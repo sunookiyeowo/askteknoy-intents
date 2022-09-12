@@ -1,8 +1,14 @@
 {
     "questions": [
-        "Who is the head of ETEEAP office?"
+        "Who is the head of ETEEAP office?",
+        "Head of ETEEAP office",
+        "Who is the ETEEAP office head?",
+        "ETEEAP Head",
+        "ETEEAP Office Head"
     ], 
     "answers": [
-        "Mrs. Jessa Logrino"
+        "Mrs. Jessa Logrino",
+        "The head of ETEEAP Office is Mrs Jessa Logrino.",
+        "Mrs. Jessa Logrino is the ETEEAP Office Head."
     ]
 }

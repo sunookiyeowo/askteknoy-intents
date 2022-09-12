@@ -1,8 +1,13 @@
 {
     "questions": [
-        "Who is the head of Main Clinic?"
+        "Who is the head of Main Clinic?",
+        "Main Clinic Head.",
+        "Who is the Main Clinic Head?",
+        "Head of Main Clinic"
     ], 
     "answers": [
-        "Mrs. Vanessa Caudo"
+        "Dr. Vanessa Caudo",
+        "The head of Main Clinic is Dr. Vanessa Caudo.",
+        "The Main Clinic Head is Dr. Vanessa Caudo."
     ]
 }

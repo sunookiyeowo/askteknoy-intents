@@ -1,8 +1,15 @@
 {
     "questions": [
-        "Who is the head of MASSCOM Office?"
+        "Who is the head of MASSCOM Office?",
+        "Who is the head of MASSCOM?",
+        "Who is the MASSCOM head?",
+        "head of masscom office",
+        "masscom office head"
+    
     ], 
     "answers": [
-        "Mrs. Flordeliza Cuerda"
+        "Mrs. Flordeliza Cuerda",
+        "MASSCOM Head is Mrs. Flordeliza Cuerda.",
+        "The head of MASSCOM Office is Mrs. Flordeliza Cuerda."
     ]
 }

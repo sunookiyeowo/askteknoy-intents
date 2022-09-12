@@ -1,13 +1,20 @@
 {
     "questions": [
-        "Who is the head and secretary of College of Architecture?"
-        "Head and Secretary of COA"
-        "Who is the head and secretary of COA?"
-        "Head and Secretary of COA"
-        "COA head"
-        "Who is the College of Architecture head and secretary?"
+        "Who is the head and secretary of Deparment of Architecture?",
+        "Head and Secretary of Architecture Deparment",
+        "Who is the head and secretary of DOA?",
+        "Head and Secretary of COA",
+        "Architecture Deparment Head",
+        "Architecture Department Head",
+        "Who is the Deparmtne of Architecture Head and Secretary?"
     ], 
     "answers": [
-        "Mr. June Bayaton"
+        "Arch. June Bayaton",
+        "Head and Secretary of DOA is Arch. June Bayaton.",
+        "The head of the department of Architecture is Arch. June Bayaton.",
+        "Arch. June Bayaton is the Head of Architecture Department",
+        "Architectural Department Head is Arch. June Bayaton.",
+        "Department of Architecture Head and Sec. is Arch. June Bayaton."
+
     ]
 }

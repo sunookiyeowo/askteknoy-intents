@@ -1,8 +1,20 @@
 {
     "questions": [
-        "Who is the head of college of computer engineering department?"
+        "Who is the head of computer engineering department?",
+        "Who is the Computer Engineering Deparment Head?",
+        "Who is the head of CPE Deparment?",
+        "Who is the CPE Deparment head?",
+        "CPE Deparment head",
+        "Computer Engineering Department Head?",
+        "Who is the Computer Engineering Head?",
+        "Who is the CPE Head?"
+
     ], 
     "answers": [
-        "Engr. Roel Lauron"
+        "Engr. Roel Lauron",
+        "The head of Computer Engineering Deparment is Engr. Roel Lauron.",
+        "Engr. Roel Lauron is the Computer Engineering Deparment Head.",
+        "CPE Department Head is Engr. Roel Lauron.",
+        "Engr. Roel Lauron is the CPE Dept. Head."
     ]
 }

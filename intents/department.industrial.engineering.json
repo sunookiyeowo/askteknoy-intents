@@ -1,8 +1,15 @@
 {
     "questions": [
-        "Who is the head and secretary of College of Industrial Engineering Department?"
+        "Who is the head and secretary of Industrial Engineering Department?",
+        "Who is the head and secretary of IE Deparment?",
+        "Who is the IE Deparment head and secretary?",
+        "IE Deparment Head and secretary?",
+        "Industrial Engineering Head and Secretary"
+
     ], 
     "answers": [
-        "Mrs. Alein Navares and Mr. Aries Rivero"
+        "Engr. Alein Navares and Engr. Aries Rivero",
+        "The head and secretary of Industrial Engineering Deparment is Engr. Alein Navares and Engr. Aries Rivero.",
+        "IE Deparment head and secretary is Engr. Alein Navares and Engr. Aries Rivero."
     ]
 }

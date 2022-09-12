@@ -1,8 +1,16 @@
 {
     "questions": [
-        "Who is the head of MSDO?"
+        "Who is the head of MSDO?",
+        "Head of MSDO",
+        "Who is the MSDO Head",
+        "head of msdo",
+        "msdo head",
+        "MSDO"
     ], 
     "answers": [
-        "Mrs. Mary Ann Jaim"
+        "Mrs. Mary Ann Jaim",
+        "The head of MSDO is Mrs. Mary Ann Jaim.",
+        "MSDO Head is Mrs. Mary Ann Jaim.",
+        "Mrs. Mary Ann Jaim is the MSDO Head."
     ]
 }

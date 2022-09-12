@@ -1,9 +1,18 @@
 {
     "questions": [
-        "Who are the secretaries and the head of college of engineering and architecture?"
+        "Who are the secretaries and the head of college of engineering and architecture?",
+        "Secretaries of College of Engineering and Architecture",
+        "Who are the head and secretaries of CEA?",
+        "Who are the secretaries of CEA?",
+        "Head and Secretaries of CEA"
 
     ], 
     "answers": [
-        "Mrs. Sheila Baraquil, Mrs. Millisent Go, Mrs. Evangeline Evangelista, and Mr. Arnis Pacamalan"
+        "Mrs. Sheila Baraquil, Mrs. Millisent Go, Mrs. Evangeline Evangelista, and Mr. Arnis Pacamalan",
+        "Secretaries of College of Engineering and Architecture: Mrs. Sheila Baraquil, Mrs. Millisent Go, Mrs. Evangeline Evangelista, and Mr. Arnis Pacamalan.",
+        "Mrs. Sheila Baraquil, Mrs. Millisent Go, Mrs. Evangeline Evangelista, and Mr. Arnis Pacamalan are the head and secretaries of CEA. ",
+        "CEA secretaries: Mrs. Sheila Baraquil, Mrs. Millisent Go, Mrs. Evangeline Evangelista, and Mr. Arnis Pacamalan.",
+        "Head and Secretaries of CEA: Mrs. Sheila Baraquil, Mrs. Millisent Go, Mrs. Evangeline Evangelista, and Mr. Arnis Pacamalan."
+
     ]
 }

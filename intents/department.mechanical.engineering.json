@@ -1,8 +1,16 @@
 {
     "questions": [
-        "Who is the0 head of College of Mechanical Engineering Department?"
+        "Who is the head of Mechanical Engineering Department?",
+        "Who is the head of ME Deparment?",
+        "Who is the Mechanical Engineering Department Head?",
+        "Who is the ME department head?",
+        "Head of Mechanical Engineering Deparment?",
+        "Head of ME Deparment"
     ], 
     "answers": [
-        "Mr. Roberto Base Jr."
+        "Engr. Roberto Base Jr.",
+        "The head of Mechanical Engineering Deparment is Engr. Roberto Base Jr.",
+        "The head of ME Deparment is Engr. Roberto Base Jr.",
+        "The Mechanical Engineering Deparment Head is Engr. Roberto Base Jr."
     ]
 }

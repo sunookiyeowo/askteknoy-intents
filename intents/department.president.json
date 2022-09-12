@@ -1,8 +1,15 @@
 {
     "questions": [
-        "Who is the head of executive office, the university president?" 
+        "Who is the head of executive office, the university president?",
+        "Who is the Executive Office Head?",
+        "Who is the president of CIT-U?",
+        "Who is the University president?",
+        "Who is the President of Cebu Institute of Technology University?",
+        "University President"
     ], 
     "answers": [
-        "The president: Bernard Nicolas E. Villamor."
+        "The president: Bernard Nicolas E. Villamor.",
+        "Executive Office Head and President: Bernard Nicolas E. Villamor.",
+        "Mr. Bernard E. Villamor is the Executive Office Head and University President."
     ]
 }

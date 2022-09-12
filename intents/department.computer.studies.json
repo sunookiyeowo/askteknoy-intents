@@ -1,8 +1,16 @@
 {
     "questions": [
-        "Who are the head and secretaries of College of Computer Studies Department (CCS/IT) ?"
+        "Who are the head and secretaries of College of Computer Studies Department (CCS/IT) ?",
+        "Who are the heads of College of Computer Studies?",
+        "Who are the heads of CCS?",
+        "Who are the secretaries of CCS Deparment?",
+        "Who are the head and secretaries of CCS Department?",
+        "Heads of CCS?"
+
     ], 
     "answers": [
-        "Mrs. Cherry Lyn Sta. Romana and Mrs. Bebeth and Mrs. Myra"
+        "Mrs. Cherry Lyn Sta. Romana and Mrs. Bebeth and Mrs. Myra",
+        "The heads of CCS are Mrs. Cherry Lyn Sta. Romana and Mrs. Bebeth and Mrs. Myra.",
+        "CCS Head and secretaries: Mrs. Cherry Lyn Sta. Romana and Mrs. Bebeth and Mrs. Myra."
     ]
 }

@@ -1,11 +1,16 @@
 {
     "questions": [
-        "What are the number of courses in health and science department?", 
-        "number of courses available in health and science"
+        "What are the number of courses or programs in health and science department?", 
+        "number of courses available in health and science",
+        "How many college programs for health and science department?",
+        "Total number of programs for Health and Science Department?",
+        "Number of programs in Health and Science deparment.",
+        "Total number of programs in Health Department."
+        
     ],
 
     "answers": [
-        "They offer 5 variety of courses in health and science departments.",
-        "CIT has 5 courses from health and science deparments."
+        "They offer 5 variety of courses/programs in health and science departments.",
+        "CIT has 5 courses/programs from health and science deparments."
     ]
 }

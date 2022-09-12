@@ -1,8 +1,15 @@
 {
     "questions": [
-        "Who is the head of medical of Dental Clinic?" 
+        "Who is the head of medical-dental Clinic?", 
+        "Who is the medical-dental clinic head?",
+        "Medical-Dental Clinic Head?",
+        "Who is the head of the Clinic?",
+        "Clinic Head?"
+
     ], 
     "answers": [
-        "Mr. Nicolas L. Escario Jr."
+        "Dr. Nicolas L. Escario Jr.",
+        "The head of medical-dental clinic is Dr. Nicolas L. Escario Jr.",
+        "Dr. Nicolas L. Escario, Head of Medical-Dental Clinic."
     ]
 }

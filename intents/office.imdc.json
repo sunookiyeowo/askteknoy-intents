@@ -1,8 +1,18 @@
 {
     "questions": [
-        "Who is the head of Instructional Materials Distribution Center Office (IMDC) ?"
+        "Who is the head of Instructional Materials Distribution Center Office (IMDC) ?",
+        "IMDC Head",
+        "Head of IMDC",
+        "Who is the head of IMDC office?",
+        "Who is the IMD office head?",
+        "IMDC Office Head.",
+        "Who is the head of IMDC?",
+        "IMDC Head"
     ], 
     "answers": [
-        "Mrs. Mitch Delantar and Mr. Noel Linao"
+        "Mrs. Mitch Delantar and Mr. Noel Linao",
+        "The heads of Instructional Materials Distribution Center Office (IMDC) is Mrs. Mitch Delantar and Mr. Noel Linao. ",
+        "IMDC Office Heads are Mrs. Mitch Delantar and Mr. Noel Linao. ",
+        "Mrs. Mitch Delantar and Mr. Noel Linao are the heads of IMDC."
     ]
 }

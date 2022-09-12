@@ -1,8 +1,13 @@
 {
     "questions": [
-        "Who is the head of office of quality assurance?" 
+        "Who is the head of  quality assurance office?",
+        "Who is the Quality Assurance Office Head?",
+        "Who is the head of Quality Assurance?",
+        "Who is the Quality Assurance Head?"
     ], 
     "answers": [
-        "Mrs. Alein Navares"
+        "Mrs. Alein Navares",
+        "The head of Quality and Assurance offie is Mrs. Alein Navares.",
+        "Quality Assurance Head is Mrs. Alein Navares."
     ]
 }

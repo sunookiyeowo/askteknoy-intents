@@ -1,8 +1,17 @@
 {
     "questions": [
-        "Who is the head and secretary of College of Civil Engineering Department?"
+        "Who is the head  of Civil Engineering Department?",
+        "Who is the Civil Engineering Department Head?",
+        "Civil Engineering Department Head?",
+        "Who is the CE Department Head?",
+        "Who is the Head of CE Department?",
+        "Who is the Head of CE Dept.?"
     ], 
     "answers": [
-        "Mr. Felrem Lord"
+        "Engr. Felrem Lord",
+        "The head of Civil Engineering Deparment is Engr. Felrem Lord.",
+        "Engr. Felrem Lord is the Civil Engineering Deparment Head.",
+        "The Civil Engineering Deparment Head is Engr. Felrem Lord.",
+        "The Head of CE Department is Engr. Felrem Lord."
     ]
 }

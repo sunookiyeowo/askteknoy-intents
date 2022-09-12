@@ -1,8 +1,16 @@
 {
     "questions": [
-        "Who is the secretary of Arts & Science?"
+        "Who is the secretary of Arts & Science?",
+        "Who is the Arts and Sciences Secretary?",
+        "Arts and Sciences Secretary",
+        "Secretary of Arts and Sciences",
+        "Who is the Sec of Arts and Sciences"
     ], 
     "answers": [
-        "Nene Algune"
+        "Nene Algune",
+        "Ms. Nene Algune is the Arts and Sciences Secretary",
+        "Arts and Sciences Secretary is Ms. Nene Algune",
+        "Secretary of Arts and Sciences is Ms. Nene Algune.",
+        "Ms. Nene Algune is the Secretary of Arts and Sciences."
     ]
 }

@@ -1,8 +1,17 @@
 {
     "questions": [
-        "Who are the secretaries of the college registrar?"
+        "Who are the secretaries of the college registrar?",
+        "College Registrar Secretaries",
+        "Who are the college registrar secretaries?",
+        "college registrat sec",
+        "secretaries college registrar",
+        "college registrar secretaries",
+        "Who are the secretaries of CR?"
+
     ], 
     "answers": [
-        "Mrs. Rachel Chong and Mr. Edwin Torillo"
+        "Mrs. Rachel Chong and Mr. Edwin Torillo",
+        "The College Registrar Secretaries are Mrs. Rachel Chong and Mr. Edwin Torillo.",
+        "Secretaries of College Registrar Office: Mrs. Rachel Chong and Mr. Edwin Torillo "
     ]
 }

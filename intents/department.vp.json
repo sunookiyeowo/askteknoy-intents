@@ -1,8 +1,16 @@
 {
     "questions": [
-        "Who is the head of executive office in VP admin?" 
+        "Who is the head of executive office in VP admin?" ,
+        "Who is the VP admin head of executive office?",
+        "Who is the head of EO in VP admin?",
+        "Who is the Executive Office Head in VP Admin?",
+        "Who is the VP Admin Executive Office Head?",
+        "Who is the Vice President?"
     ], 
     "answers": [
-        "The vice president: John Gregory B. Escario."
+        "The vice president: John Gregory B. Escario.",
+        "Mr. John Gregory B. Escario is the Head of Executive Office in VP Admin.",
+        "Vice President: Mr. John Gregory B. Escario."
+
     ]
 }

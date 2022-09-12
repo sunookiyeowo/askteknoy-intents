@@ -1,8 +1,15 @@
 {
     "questions": [
-        "Who is the head of DHBS Department?"
+        "Who is the head of DHBS Department?",
+        "Who is the DHBS Department Head?",
+        "Head of DHBS Deparment",
+        "DHBS Head?",
+        "Who is the head of DHBS?"
+    
     ], 
     "answers": [
-        "Mr. Ronald Yrog-Yrog"
+        "Mr. Ronald Yrog-Yrog",
+        "Mr. Ronald Yrog-Yrog is the head of DHBS.",
+        "DHBS Head is Mr. Ronald Yrog-Yrog."
     ]
 }

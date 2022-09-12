@@ -1,8 +1,17 @@
 {
     "questions": [
-        "Who are the head and secretary of College of Chemistry Department?"
+        "Who is the head of Chemistry Department?",
+        "Who is the Chemistry Deparment Head?",
+        "Head of Chemistry Department?",
+        "Who is the head of the Deparment of Chemistry",
+        "Deparment of Chemistry Head",
+        "Who is the Department of Chemistry Head"
     ], 
     "answers": [
-        "Mr. Bennie Bacalso"
+        "Mr. Bennie Bacalso",
+        "The Chemistry Deparment Head is Mr. Bennie Bacalso.",
+        "Head of Chemistry Department is Mr. Bennie Bacalso.",
+        "The Head of the Deparment of Chemistry is Mr. Bennie Bacalso.",
+        "Mr. Bennie Bacalso is the head of Chemistry Deparment."
     ]
 }

@@ -1,10 +1,17 @@
 {
     "questions": [
-        "Who is the secretary of Alumni Office for Highschool?",
-        "Who is the secretary of Alumni Office for College?" 
+        "Who is the secretary of Alumni Office?",
+        "Who is the secretary of Alumni Office??",
+        "Who is the Alumni Office Secretary?",
+        "Secretary of Alumni Office?",
+        "Alumni Office secretary"
 
     ], 
     "answers": [
-        "Shirley Ares."
+        "Ms. Shirley Ares.",
+        "Ms. Shirley Ares is the secretary of Alumni Office secretary.",
+        "The secretary of Alumni Office is Ms. Shirley Ares",
+        "The Alumni Office Secretary is Ms. Shirley Ares."
+
     ]
 }

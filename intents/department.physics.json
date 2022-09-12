@@ -1,8 +1,15 @@
 {
     "questions": [
-        "Who is the head of Physics Department Office?"
+        "Who is the head of Physics Department Office?",
+        "Who is the Physics Department Head?",
+        "Head of Physics Department?",
+        "Physics Department Head"
+
     ], 
     "answers": [
-        "Mrs. Juantia Sayson"
+        "Mrs. Juantia Sayson",
+        "The head of Physics Deparment is Mrs. Juantia Sayson.",
+        "Physics Deparment Head is Mrs. Juantia Sayson.",
+        "Mrs. Juantia Sayson is the Physics Department Head."
     ]
 }

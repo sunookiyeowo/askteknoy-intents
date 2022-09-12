@@ -1,9 +1,18 @@
 {
     "questions": [
-        "Who are the head and secretary of College of Management and Business Accounting?"
+        "Who are the head and secretary of College of Management, Business, and Accountancy?",
+        "Who are the heads of College of Management, Business and Accountancy?",
+        "Who are the CMBA heads?",
+        "Who are the heads of the CMBA?",
+        "Who are the secretaries of College of Management, Business, and Accountancy?",
+        "College of Management, Business, and Accountancy heads",
+        "CMBA Heads"
 
     ], 
     "answers": [
-        "Mr. Alexander Franco Delantar and Mrs. Maribel."
+        "Mr. Alexander Franco Delantar and Mrs. Maribel.",
+        "The heads of College of Management, Business, and Accountancy are Mr. Alexander Franco Delantar and Mrs. Maribel.",
+        "Mr. Alexander Franco Delantar and Mrs. Maribel are the heads of CMBA.",
+        "The heads and secretaries of CMBA are Mr. Alexander Franco Delantar and Mrs. Maribel."
     ]
 }

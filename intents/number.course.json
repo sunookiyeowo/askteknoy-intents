@@ -5,14 +5,25 @@
         "What are the total number of courses?",
         "Amount of course in CIT-U.", 
         "Total number of courses.",
-        "The number of college courses."
+        "The number of college courses.",
+        "The total number of college programs.",
+        "What are the number of programs in CIT",
+        "Number of programs in CIT", 
+        "What are the total number of programs?",
+        "Amount of programs in CIT-U.", 
+        "Total Number of Programs.",
+        "The number of college programs."
     ], 
     "answers": [ 
         "There are 32 variety of college courses.", 
+        "There are 32 variety of college programs.", 
         "The number of courses in CIT-U is 32.",
-        "The number of 32 course available in CIT-U.", 
+        "The number of 32 courses are available in CIT-U.", 
         "It is 32 courses available.", 
         "You can enroll in 32 courses in CIT-U.",
-        "CIT-U have 32 undergraduate."
+        "CIT-U have 32 undergraduate.",
+        "There are 32 college programs",
+        "CIT-U has a number of 32 college programs in which you can enroll to.",
+        "The number of programs in CIT-U is 32."
     ]
 }

@@ -2,12 +2,17 @@
     "questions" : [
         "How many engineering courses?",
         "Number of engineering courses in CIT-U",
-        "Total number of engineering courses."
+        "Total number of engineering courses.",
+        "Number of Engineering programs.",
+        "How many programs in engineering are there?",
+        "What is the number of engineering programs in CIT-U?"
+
     ],
 
     "answers": [
-        "There are 9 engineering courses.",
+        "There are 9 engineering courses/programs.",
         "Hi, CIT-U have 9 engineering courses available.", 
-        "They offer 9 engineering courses."
+        "They offer 9 engineering courses.",
+        "CIT-U has offered 9 engineering programs."
     ]
 }

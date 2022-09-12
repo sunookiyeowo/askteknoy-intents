@@ -1,8 +1,15 @@
 {
     "questions": [
-        "Who is the head of enrolment technical office (ETO)?"
+        "Who is the head of enrolment technical office (ETO)?",
+        "Who is the ETO head?",
+        "Who is the head of ETO?",
+        "Who is the Enrolment Technical Office Head?",
+        "ETO Head",
+        "Head of ETO"
     ], 
     "answers": [
-        "Mr. Butch Cortez"
+        "Mr. Butch Cortez",
+        "The head of Enrolment Technical Office (ETO) is Mr. Butch Cortez.",
+        "ETO head is Mr. Butch Cortez."
     ]
 }

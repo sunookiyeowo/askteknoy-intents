@@ -1,8 +1,13 @@
 {
     "questions": [
-        "Who is the head of Office Access?"
+        "Who is the head of Office Access?",
+        "Who is the Office Access Head?",
+        "Office Access Head.",
+        "Head of Office Access"
     ], 
     "answers": [
-        "Mrs. Larmie Feliscuzo"
+        "Mrs. Larmie Feliscuzo",
+        "The head of Office Access is Mrs. Larmie Feliscuzo.",
+        "The Office Access Head is Mrs. Larmie Feliscuzo."
     ]
 }

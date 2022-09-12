@@ -1,8 +1,16 @@
 {
     "questions": [
-        "Who is the head of PE Department office?"
+        "Who is the head of PE Department office?",
+        "Who is the head of Physical Education Department Office?",
+        "Who is the PE Deparment Office Head?",
+        "Who is the head of PE Deparment?",
+        "Who is the PE Deparment Head?",
+        "Head of PE Deparment"
     ], 
     "answers": [
-        "Mrs. Jean Marie Cando"
+        "Mrs. Jean Marie Cando",
+        "The head of PE Deparment Office is Mrs. Jean Marie Cando.",
+        "PE Deparment Head is Mrs. Jean Marie Cando.",
+        "Head of Physical Education Department is Mrs. Jean Marie Cando."
     ]
 }

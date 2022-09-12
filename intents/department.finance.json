@@ -1,8 +1,13 @@
 {
     "questions": [
-        "Who is the VP Finance and treasury head?" 
+        "Who is the VP Finance and treasury head?", 
+        "Who is the head of VP Finance?",
+        "Who is the head of VP Finane and treasury?",
+        "Head of VP Finance and Treasury?"
     ], 
     "answers": [
-        "Mrs. Socorro E. Villamor"
+        "Mrs. Socorro E. Villamor",
+        "Mrs. Soccoro E. Villamor is the head of VP Finance and Treasury.",
+        "The head of VP Finance and Treasury is Mrs. Soccoro E. Villamor."
     ]
 }

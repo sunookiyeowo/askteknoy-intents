@@ -1,8 +1,15 @@
 {
     "questions": [
-        "Who is the head of office of CWTS?"
+        "Who is the head of office of CWTS?",
+        "Who is the CWTS office head?",
+        "Who is the head of CWTS office?",
+        "CWTS Head",
+        "CWTS Office Head",
+        "Who is the head CWTS?"
     ], 
     "answers": [
-        "Mr. Gregorio Silverio"
+        "Mr. Gregorio Silverio",
+        "The CWTS Office Head is Mr. Gregorio Silverio.",
+        "The head of CWTS Office is Mr. Gregorio Silverio."
     ]
 }

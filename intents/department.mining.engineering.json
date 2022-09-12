@@ -1,8 +1,16 @@
 {
     "questions": [
-        "Who is the head of College of Mining Engineering Department?"
+        "Who is the head of Mining Engineering Department?",
+        "Who is the head of EM Deparment?",
+        "Who is the EM Deparment Head?",
+        "Who is the Mining Engineering Deparment Head?",
+        "Head of EM Deparment?"
     ], 
     "answers": [
-        "Mrs. Emily Abais"
+        "Engr. Emily Abais",
+        "The head of Mining Engineering Deparment is Engr. Emily Abais.",
+        "EM Deparment Head is Engr. Emily Abais.",
+        "The Mining Engineering Deparment Head is Engr. Emily Abais."
+
     ]
 }

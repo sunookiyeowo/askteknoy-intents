@@ -1,8 +1,15 @@
 {
     "questions": [
-        "Who is the head of Community Extension Services?"
+        "Who is the head of Community Extension Services?",
+        "Who is the head of CES?",
+        "Who is the CES Head?",
+        "CES Head",
+        "Community Extension Services Head",
+        "Who is the Community Extension Services Head?"
     ], 
     "answers": [
-        "Mrs. Luni Villacastin"
+        "Mrs. Luni Villacastin",
+        "The head of Community Extension Services is Mrs. Luni Villacastin.",
+        "CES Head is Mrs. Luni Villacastin."
     ]
 }

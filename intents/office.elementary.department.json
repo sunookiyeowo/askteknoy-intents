@@ -1,8 +1,14 @@
 {
     "questions": [
-        "Who is the head and secretary of Elementary Department Office?"
+        "Who is the head and secretary of Elementary Department Office?",
+        "Head and Secretary of Elementary Department.",
+        "Who is the head and sec of Elementary Department?",
+        "Who is the Elementary Deparment Head and Secretary?",
+        "Elementary Deparment Head and Secretary",
+        "Elem Dept. Head and Secretary"
     ], 
     "answers": [
-        "Mrs. Genabel Patrimortio and Mrs. Josephone Morcillia"
+        "Mrs. Genabel Patrimortio and Mrs. Josephone Morcillia",
+        "The Head and Secretary of Elementary Deparment is Mrs. Genabel Patrimortio and Mrs. Josephone Morcillia."
     ]
 }

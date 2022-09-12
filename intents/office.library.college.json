@@ -1,8 +1,15 @@
 {
     "questions": [
-        "Who is the head and secretary of Library?"
+        "Who is the head and secretary of Library?",
+        "head and secretary of library",
+        "Who is the library head and secretary?",
+        "Library Head and Secretary",
+        "Secretary and Head of Library",
+        "Head and Sec. library"
     ], 
     "answers": [
-        "Mrs. Marylene Rivera and Mrs. Rainera Boholst"
+        "Mrs. Marylene Rivera and Mrs. Rainera Boholst",
+        "The head and secretary of Library is Mrs. Marylene Rivera and Mrs. Rainera Boholst.",
+        "Library Head and Sec.: Mrs. Marylene Rivera and Mrs. Rainera Boholst."
     ]
 }

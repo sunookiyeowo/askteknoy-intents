@@ -1,8 +1,14 @@
 {
     "questions": [
-        "Who is the head of university's marketing officer?" 
+        "Who is the head of university's marketing officer?",
+        "Who is the university's marketing officer head?",
+        "Head of university's marketing officer.",
+        "Who is the head of University Marketing Officer?",
+        "Head of University Marketing Officer."
     ], 
     "answers": [
-        "Mr. Raffy Diano"
+        "Mr. Raffy Diano",
+        "The Head of University's Marketing Officer is Mr. Raffy Diano.",
+        "Mr. Raffy Diano is the University's Marketing Officer Head."
     ]
 }

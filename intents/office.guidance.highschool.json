@@ -1,8 +1,19 @@
 {
     "questions": [
-        "Who is the head and secretary of highschool guidance office?"
+        "Who is the head of highschool guidance office?",
+        "Who is the Highschool Guidance Office Head?",
+        "Who is the HGO Head?",
+        "Highschool Guidance Office Head",
+        "highschool guidance office head",
+        "head of highschool guidance office",
+        "HGO Head",
+        "Guidance Office Highschool head",
+        "Highschool Guidance Office Head",
+        "Head of HGO"
     ], 
     "answers": [
-        "Mrs. Jundith Palma"
+        "Mrs. Jundith Palma",
+        "The head of Highschool Guidance Office is Mrs. Jundith Palma.",
+        "HGO Heaf is Mrs. Jundith Palma."
     ]
 }

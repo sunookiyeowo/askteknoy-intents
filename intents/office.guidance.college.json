@@ -1,8 +1,18 @@
 {
     "questions": [
-        "Who is the head and secretary of college guidance office?"
+        "Who is the head and secretary of college guidance office?",
+        "Who is the head and secretary of guidance office for college?",
+        "Who is the guidance office for college head and secretary?",
+        "College Guidance Office Head and Secretary",
+        "Head and Secretary CGO",
+        "CGO Head and Secretary",
+        "Who is the CGO head and secretary?",
+        "Who is the head and secretary of CGO?",
+        "CGO Head and Sec."
     ], 
     "answers": [
-        "Mr. Arnie Ernesta Tacdoro and Mrs. Emily Yaranon"
+        "Mr. Arnie Ernesta Tacdoro and Mrs. Emily Yaranon",
+        "The head and secretary of College Guidance Office is Mr. Arnie Ernesta Tacdoro and Mrs. Emily Yaranon.",
+        "CGO head and secretary: Mr. Arnie Ernesta Tacdoro and Mrs. Emily Yaranon "
     ]
 }
